@@ -5,3 +5,4 @@ Working:
 The basic working of the project is that the ultrasonic sensors detect for obstacles, the formula designed calculates the distance between the obstacle and the person. The vibration motor vibrates when the object is near(less than or equal to 15cm). 
 
 Hardware Used: Arduino due, Ultrasonic sensors, Vibration sensors
+Software Used: Arduino IDE
